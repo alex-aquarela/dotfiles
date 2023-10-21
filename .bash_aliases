@@ -18,6 +18,9 @@ alias pu="pushd"
 alias po="popd"
 alias v="vim"
 alias k="kubectl"
+alias firefox='nohup firefox &'
+alias files='nohup nautilus &'
+alias terminator='nohup terminator &'
 
 # Windows Terminal Ricing 🍙🍚
 RICE='/mnt/c/Users/Usuario/AppData/Local/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/LocalState/settings.json'
